@@ -584,8 +584,8 @@ body {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-list-item:hover .portfolio-list-description,
-.portfolio-list-item:focus .portfolio-list-description {
+.portfolio-list-link:hover .portfolio-list-description,
+.portfolio-list-link:focus .portfolio-list-description {
   transform: translateY(0%);
 }
 
